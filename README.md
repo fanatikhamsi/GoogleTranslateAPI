@@ -1,2 +1,2 @@
 # GoogleTranslateAPI
-Free Unlimited Google Translate API Class
+PHP library for talking to Google's Translate API for free and unlimited.
