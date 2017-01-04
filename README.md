@@ -4,7 +4,7 @@ PHP library for talking to Google's Translate API for free and unlimited. No nee
 ## USAGE
 
 ```php
-  
+  <?php
   require 'GoogleTranslateAPI.php';
 
   $source = 'es'; //Espanol
@@ -17,7 +17,7 @@ PHP library for talking to Google's Translate API for free and unlimited. No nee
 ```
 
 ```php
-  
+  <?php
   require 'GoogleTranslateAPI.php';
 
   $source = 'en'; //English
