@@ -1,5 +1,5 @@
 # GoogleTranslateAPI
-PHP library for talking to Google's Translate API for free and unlimited. Yes its working correctly, unlimited and free!!
+PHP library for talking to Google's Translate API for free and unlimited. No need an api key or auth. Yes its working correctly, unlimited and free!!
 
 ## USAGE
 
