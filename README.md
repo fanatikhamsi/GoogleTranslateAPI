@@ -10,6 +10,7 @@ PHP library for talking to Google's Translate API for free and unlimited. No nee
   $source = 'es'; //Espanol
   $target = 'en'; //English
   $text = 'Mucho gusto encantado';
+  
   $translateApi = new GoogleTranslateAPI();
   $translated = $translateApi->translate($source, $target, $text);
   //Result is "Nice to meet you"
@@ -23,6 +24,7 @@ PHP library for talking to Google's Translate API for free and unlimited. No nee
   $source = 'en'; //English
   $target = 'ja'; //Japanese
   $text = 'Nice to meet you';
+  
   $translateApi = new GoogleTranslateAPI();
   $translated = $translateApi->translate($source, $target, $text);
   //Result is "はじめまして"
